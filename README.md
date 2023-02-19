@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/00K0DA">
+  <img align="left" height="190px" src="https://github-readme-stats.vercel.app/api?username=00K0DA&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/00K0DA">
+  <img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00K0DA&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **00K0DA/00K0DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
